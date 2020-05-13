@@ -1,11 +1,13 @@
 # Market_Anomaly_Detector
 
-Idea: To help investors be notified of potential capital gains opportunity. 
+Idea: To help investors be notified of potential capital gains opportunity in the stock market. 
 
-It sends a personalized email with a DataFrame of shares whose prices have drastically fallen. The stock's sent are from the investor's stock portfolio (in google sheets). Along with that, it 
-attaches the respective stock's top news articles.
+What: Sends am email about the stocks whose prices have drastically fallen. Includes new's headline, link and source.
 
-For the news, it sends the link, news' title and it's source. It parses HTML from google new's for the stocks' most pertinent news.
+How: It parses HTML from google new's for the stocks' most pertinent news.
+     HTML and CSS is used for email templating and a range of Google API's through Python. 
 
-Technologies: HTML and CSS is used for contextual email templating and a range of API's including Google Drive and Google Sheets through
-Python. 
+
+Additional Details:
+Stocks are from the investors stock portfolio in the Google Sheets
+Attaches top 5 news, sorted according to their popularity about the stocks. 
