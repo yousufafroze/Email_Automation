@@ -12,5 +12,9 @@ Additional Details:
 Stocks are from the investors stock portfolio in the Google Sheets
 Attaches top 5 news, sorted according to their popularity about the stocks. 
 
-![alt text](https://github.com/yousufafroze/Market_Anomaly_Detector/blob/master/Email.png)
+Template of the email is as follows:
 ![alt text](https://github.com/yousufafroze/Market_Anomaly_Detector/blob/master/Template.png)
+
+
+Email sent is as follows: (The listing of news has a bug)
+![alt text](https://github.com/yousufafroze/Market_Anomaly_Detector/blob/master/Email.png)
