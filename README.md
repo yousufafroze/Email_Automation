@@ -12,7 +12,8 @@ HTML and CSS is used for email templating and a range of Google API's through Py
 
 
 *Template of the email is as follows*
-![alt text](https://github.com/yousufafroze/Market_Anomaly_Detector/blob/master/Template.png)
+[link]([https://www.youtube.com/watch?v=MTl8djZFWE0](https://www.youtube.com/watch?v=MTl8djZFWE0))
+> ![alt text](https://github.com/yousufafroze/Market_Anomaly_Detector/blob/master/Template.png)
 
 
 *Email sent is as follows: (The listing of news has a bug)*
