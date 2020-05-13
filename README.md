@@ -11,3 +11,5 @@ How: It parses HTML from google new's for the stocks' most pertinent news.
 Additional Details:
 Stocks are from the investors stock portfolio in the Google Sheets
 Attaches top 5 news, sorted according to their popularity about the stocks. 
+
+![alt text](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
