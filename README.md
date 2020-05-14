@@ -23,3 +23,10 @@
 **Additional Details**
 - Stocks are from the investors stock portfolio in the Google Sheets
 - Attaches top 5 news, sorted according to their popularity about the stocks. 
+
+**Difficulties**
+- Layout of the email
+- Scraping of the news
+- Having to work with unknown APIs
+
+
