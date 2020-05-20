@@ -8,7 +8,7 @@
 
 **How**:
 - It parses HTML from google new's for the stocks' most pertinent news.
-- HTML and CSS is used for email templating and a range of Google API's through Python. 
+- Jinja is used for email templating and a range of Google API's through Python. 
 
 
 *Template of the email is as follows*
