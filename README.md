@@ -4,7 +4,7 @@
 - To help investors be notified of potential capital gains opportunity in the stock market. 
 
 **What**: 
-- Sends am email about the stocks whose prices have drastically fallen. Includes new's headline, link and source.
+- Sends an email about the stocks whose prices have drastically fallen. Includes new's headline, link and source.
 
 **How**:
 - It parses HTML from google new's for the stocks' most pertinent news.
